@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Nafiha V
 
-<!--
-**nafiha-ashraf/nafiha-ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 About Me
 
-Here are some ideas to get you started:
+- 📍 India
+- 🏫 University: Yenepoya
+- 🎓 Degree: BCA Student
+- 🤖 Currently learning: AI & Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Skills & Interests
+
+- Programming (C++, basics)
+- Artificial Intelligence
+- Robotics
+- Learning new technologies
+
+📚 Current Goals
+
+- Improve coding skills
+- Work on AI projects
+- Build simple applications
+
+📫 Contact
+
+- GitHub: https://github.com/yourusername
+
+---
+
+⭐ Thank you for visiting my profile!
